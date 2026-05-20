@@ -98,5 +98,8 @@ Gustavo Araujo Da Silva - Rm566526
 Guilherme Santos Fonseca - Rm564232
 Anthony De Sousa Henrique - Rm566188
 
+# Video com a explicação no YouTube
+https://www.youtube.com/watch?v=9Xp7aakN9mY
+
 # Licença
 Projeto acadêmico desenvolvido para o FIAP Challenge 2026 em parceria com a CLYVO VET.
