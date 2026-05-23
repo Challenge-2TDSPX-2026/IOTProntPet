@@ -93,10 +93,13 @@ Integração com plataforma Clyvo Vet (próximas sprints)
 
 
 # Integrantes
-Nathan G.P. Mendes - Rm564666
-Gustavo Araujo Da Silva - Rm566526
-Guilherme Santos Fonseca - Rm564232
-Anthony De Sousa Henrique - Rm566188
+
+| Nome | RM |
+|------|-----|
+|Nathan Gonçalves Pereira Mendes | RM564666 |
+|Guilherme Santos Fonseca | RM564232 |
+|Gustavo Araujo Da Silva | RM566526 |
+|Anthony De Souza Henriques | RM566188 |
 
 # Video com a explicação no YouTube
 https://www.youtube.com/watch?v=9Xp7aakN9mY
